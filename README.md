@@ -1,13 +1,13 @@
 ### Hi there 👋
+Hola a todos, mi nombre es Anderson Rubio y soy un desarrollador de software.
 
+Tecnologías que manejo:
+Laravel, PHP, Redis, Handlebars.js, MySQL, Node.js
 <!--
 **Andelir/Andelir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- Hola a todos, mi nombre es Anderson Rubio y soy un desarrollador de software.
-
-Tecnologías que manejo:
-Laravel, PHP, Redis, Handlebars.js, MySQL, Node.js
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
