@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hola a todos, mi nombre es Anderson Rubio y soy un desarrollador de software.
+Hola a todos, mi nombre es Anderson Rubio y trabajo como desarrollador de software.
 
 Tecnologías que manejo:
 Laravel, PHP, Redis, Handlebars.js, MySQL, Node.js
