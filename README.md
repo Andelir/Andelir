@@ -1,8 +1,8 @@
 ### Hi there 👋
-Hola a todos, mi nombre es Anderson Rubio y trabajo como desarrollador de software.
+Hola a todos, mi nombre es Elian Rubio y trabajo como desarrollador de software backend.
 
-Tecnologías que manejo:
-Laravel, PHP, Redis, Handlebars.js, MySQL, Node.js
+Lenguajes de programación:
+PHP, JavaScript/TypeScript
 <!--
 **Andelir/Andelir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
