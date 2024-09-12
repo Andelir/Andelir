@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hola a todos, mi nombre es Elian Rubio y trabajo como desarrollador de software backend.
+Hola a todos, mi nombre es Elian Rubio y trabajo como desarrollador de software.
 
 Lenguajes de programación:
 PHP, JavaScript/TypeScript
