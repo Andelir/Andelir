@@ -46,55 +46,19 @@ I enjoy solving complex problems through clean architecture, maintainable code, 
 
 # Software Engineering
 
-### Architecture & Design Principles
 
-- MVC (Model–View–Controller)
-- Layered Architecture
-- Clean Architecture
-- Hexagonal Architecture (Ports & Adapters)
-- Domain-Driven Design (DDD)
-
----
-
-### Engineering Principles
-
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- Design Patterns (GoF)
-- Separation of Concerns (SoC)
-- DRY (Don't Repeat Yourself)
-- KISS (Keep It Simple, Stupid)
+| Architecture & Design | Engineering Principles | Testing & Quality | API & Integration | Development Practices |
+|------------------------|--------------------------|----------------------|----------------------|--------------|
+| MVC | OOP | TDD | REST APIs | Agile (Scrum/Kanban) |
+| Layered Architecture | SOLID | Unit Testing | SOAP Integrations | CI/CD |
+| Clean Architecture | Design Patterns (GoF) | Integration Testing | Microservices | Clean Code |
+| Hexagonal Architecture | SoC | API Testing | Event-Driven (basic) | Git |
+| DDD | DRY / KISS | Code Review | API Design | DevOps mindset |
 
 ---
 
-### Testing & Quality
 
-- Test-Driven Development (TDD)
-- Unit Testing
-- Integration Testing
-- API Testing
-- Code Reviews & Refactoring
 
----
-
-### API & Integration Design
-
-- RESTful API Design
-- SOAP Integrations
-- Microservices Communication
-- Event-Driven Architecture (basic knowledge / optional if applies)
-
----
-
-### Development Practices
-
-- Agile Methodologies (Scrum / Kanban)
-- CI/CD pipelines
-- Clean Code practices
-- Version control with Git
-- DevOps collaboration mindset
-
----
 
 # Currently Interested In
 
